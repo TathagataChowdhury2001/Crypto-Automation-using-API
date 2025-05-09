@@ -1,8 +1,8 @@
 ### **📌 Project Title**
-"CryptoTradeBot: Automated API Trading with Python"._
+"CryptoTradeBot: Automated API Trading with Python".
 
 ### **🔹 Overview** 
-_"CryptoTradeBot automates cryptocurrency trading by fetching market data from [API Name] and executing predefined trading strategies using Python. It helps traders optimize decision-making through real-time data processing and automation."_
+"CryptoTradeBot automates cryptocurrency trading by fetching market data from CoinMarketCap API website and executing predefined trading strategies using Python. It helps traders optimize decision-making through real-time data processing and automation."
 
 ### **🚀 Features**
 - **API Integration:** Fetches real-time market data  
